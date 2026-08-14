@@ -24,14 +24,14 @@
     - 추가 실험 및 비교를 수행한 점
     - <img width="752" height="607" alt="image" src="https://github.com/user-attachments/assets/639a9f02-3f60-43ee-9474-bac9931e6e3e" />
 
-- [ ]  **4. 회고를 잘 작성했나요?**
+- [x]  **4. 회고를 잘 작성했나요?**
     - Abstractive 요약과 Extractive 요약의 결과를 문법 완성도와 핵심 단어 포함 측면에서 정량적으로 비교하고, 표를 통해 체계적으로 정리
     - <img width="2700" height="1050" alt="image" src="https://github.com/user-attachments/assets/e0edf45d-af57-4738-ad5e-9d9e6bb477ed" />
     - 모델의 한계점 분석과 향후 개선 방향을 정리
     - <img width="764" height="436" alt="image" src="https://github.com/user-attachments/assets/e79b8c05-5d0e-4746-aa19-e6c2824daf4d" />
 
         
-- [ ]  **5. 코드가 간결하고 효율적인가요?**
+- [x]  **5. 코드가 간결하고 효율적인가요?**
     - 데이터 전처리, 정제, 정규화, 불용어 제거 및 인코딩 과정이 함수화 및 파이프라인 형태로 구조화되어 있어 코드의 가독성과 재사용성이 높음
     - <img width="775" height="700" alt="image" src="https://github.com/user-attachments/assets/8bde11d7-d257-42ae-afd0-305d772d492b" />
 
