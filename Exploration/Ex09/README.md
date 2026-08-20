@@ -9,7 +9,11 @@
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
      
         1. 한국어 전처리를 통해 학습 데이터셋을 구축하였다.
+        <img width="745" height="99" alt="image" src="https://github.com/user-attachments/assets/ccd9df5a-525d-4deb-8bda-9bd8ad9b4bcd" />
+
         2. Transformer 구현 후 한국어 챗봇 학습을 하고 안정적으로 수렴되는 것을 확인하였다.
+      <img width="754" height="72" alt="image" src="https://github.com/user-attachments/assets/e9e3b56b-ee63-48bd-ad3a-76c2bdd38ca7" />
+
         3. 한국어 입력문장에 대해 한국어로 답변이 되고 있다.
            
         <img width="298" height="92" alt="image" src="https://github.com/user-attachments/assets/1d750779-9c76-4793-b01f-083c13835e48" />
